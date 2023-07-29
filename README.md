@@ -27,3 +27,5 @@ Achievements
 - Capstone Project Rank: 65
 - Healthy Life Style Hackathon Rank: 24
   - F1 Score: 87.6919
+
+![COM](https://github.com/IshaanAdarsh/Summer-Analytics-Assignment/assets/100434702/675abfc8-c0e8-4dbc-9f79-879807052b51)
